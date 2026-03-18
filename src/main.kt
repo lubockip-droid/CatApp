@@ -6,7 +6,6 @@ fun main() {
     binnie.eat()
     clyde.eat()
     binnie.eat()
-    clyde.eat()
     println(binnie)
     println(clyde)
 }
